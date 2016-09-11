@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineExamApp", "OnlineExam
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DatabaseScripts", "DatabaseScripts", "{E58F389A-9B98-45EF-A5B7-2784D7281F15}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\OnlineExamInitial_SQLScript.sql = ..\..\..\OnlineExamInitial_SQLScript.sql
+		C:\Users\Anisuzzaman\Documents\OnlineExamInitial_SQLScript.sql = C:\Users\Anisuzzaman\Documents\OnlineExamInitial_SQLScript.sql
 	EndProjectSection
 EndProject
 Global
